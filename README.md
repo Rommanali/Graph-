@@ -1,3 +1,4 @@
 # Graph-
 A Graph made using Python
-![Graph 1](https://user-images.githubusercontent.com/110973458/184534765-4f45057a-0098-497a-b16b-95ca5289f2b1.jpeg)
+![graph 1 pic](https://user-images.githubusercontent.com/110973458/184534850-00a9850a-5b33-418c-a8d4-7c1ed6391fb8.png)
+
